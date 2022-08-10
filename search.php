@@ -5,9 +5,6 @@ Author: eartahhj - https://www.codinghouse.it/ - https://www.gaminghouse.communi
 Donate: https://liberapay.com/GamingHouse/donate
 */
 
-ini_set('display_errors', 'on');
-error_reporting(E_ALL);
-
 setlocale(LC_ALL, 'en_US');
 bindtextdomain("phpGoogleCSE", './locale');
 textdomain("phpGoogleCSE");
